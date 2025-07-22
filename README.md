@@ -21,7 +21,7 @@ A análise foi feita com base nos seguintes pontos:
 
 ## 🗃️ Fonte dos Dados
 
-Os dados foram disponibilizados publicamente pela [Alura](https://github.com/alura-cursos/pandas-conhecendo-a-biblioteca) e estão disponíveis no seguinte link: https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/main/base-de-dados/aluguel.csv
+Os dados foram disponibilizados publicamente pela [Alura](https://github.com/alura-cursos/pandas-conhecendo-a-biblioteca) e estão disponíveis no seguinte link: [Github Aluna](https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/main/base-de-dados/aluguel.csv)
 
 ## ✅ Etapas Realizadas
 
