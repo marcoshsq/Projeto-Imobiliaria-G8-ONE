@@ -25,17 +25,10 @@ Os dados foram disponibilizados publicamente pela [Alura](https://github.com/alu
 
 ## ✅ Etapas Realizadas
 
-- [x] Importação e visualização inicial dos dados
-- [x] Tratamento e limpeza de dados
-- [x] Análise exploratória
-- [x] Criação de novas colunas descritivas
-- [x] Geração de insights por bairro e tipo de imóvel
-
-## 👤 Autor
-
-Projeto desenvolvido por **Marcos Henrique**, Analista de BI com foco em análise de dados e marketing digital.
+- [✓] Importação e visualização inicial dos dados
+- [✓] Tratamento e limpeza de dados
+- [✓] Análise exploratória
+- [✓] Criação de novas colunas descritivas
+- [✓] Geração de insights por bairro e tipo de imóvel
 
 ---
-
-
-
